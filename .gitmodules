@@ -1,0 +1,3 @@
+[submodule "dev-commit"]
+	path = dev-commit
+	url = https://github.com/nama4030/dev-commit.git
